@@ -1,0 +1,25 @@
+{
+  "name": "@fatesigner/wx-jssdk",
+  "version": "1.0.0",
+  "description": "微信 jssdk 的 ts 封装.",
+  "license": "MIT",
+  "keywords": [
+    "wx",
+    "jssdk"
+  ],
+  "author": {
+    "name": "Jeremy Tang",
+    "email": "fatesigner@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatesigner/wx-jssdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fatesigner/wx-jssdk/issues"
+  },
+  "homepage": "https://github.com/fatesigner/wx-jssdk#readme",
+  "dependencies": {
+    "rxjs": "6.3.3"
+  }
+}
