@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/fatesigner/wx-jssdk#readme",
   "dependencies": {
-    "rxjs": "6.3.3"
+    "rxjs": "6.6.3"
   }
 }
